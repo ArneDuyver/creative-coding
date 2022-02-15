@@ -30,7 +30,7 @@ Volgende links leiden naar verschillende bronnen om inspiratie op te doen over c
 
 ## Project voorbeelden
 Hieronder is een voorbeeld terug te vinden van een dagproject dat gemaakt werd in p5 als voorbeeld voor de projectdag van de studenten. De code is terug te vinden
-<iframe width="100%" height="1200" src="https://editor.p5js.org/ArneDuyver/full/a4a87EoGe"></iframe>
+<iframe width="100%" height="600" src="https://editor.p5js.org/ArneDuyver/full/a4a87EoGe"></iframe>
 
 Meer voorbeelden van dag projecten:
 - [Horse race](https://editor.p5js.org/ArneDuyver/sketches/h4nLGchFc)
