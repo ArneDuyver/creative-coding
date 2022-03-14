@@ -11,9 +11,9 @@ Ik ben een masterstudent aan de gedeelde opleiding Industriële Ingenieurswetens
 ## Praktische info rond projectdag 25/03/2022
 De UHasselt studenten nemen samen met de begeleiders onderstaande treinen voor heen- en terugkomst:
 - 07:27 in Hasselt station de IC 1530 naar Blankenberge, komt aan om 09:24 in Gent.
-[heenrit](/images/heenrit.png)
+![heenrit](/images/heenrit.png)
 - 17:38 in Gent station de IC 1516 naar Genk, komt aan om 19:30 in Hasselt.
-[terugrit](/images/terugrit.png)
+![terugrit](/images/terugrit.png)
 ### Dagplanning
 - 07:27 Trein nemen in Hasselt
 - 09:24 Aankomst in Gent station
@@ -24,7 +24,7 @@ De UHasselt studenten nemen samen met de begeleiders onderstaande treinen voor h
 - 17:38 Trein nemen in Gent
 - 19u30 Aankomst in Hasselt station
 
-## Extra uiteg project
+## Extra uitleg project
 Het project bestaat uit het creëren van een creatief materiaal aan de hand van de online editor [p5.js](https://editor.p5js.org). P5.js is een JavaScript library voor creative coding met de focus op programmeren zo toegankelijk en inclusief mogelijk te maken voor iedereen. Meer info over de hun visie is terug te vinden op hun website: [p5js.org](https://p5js.org).
 De online web editor voorziet enkele boilerplate html, css en javascript code om snel van start te kunnen gaan met je eigen ideëen. 
 
