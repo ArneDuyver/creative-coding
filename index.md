@@ -5,6 +5,9 @@
 - [p5.js reference](https://p5js.org/reference/)
 - [Voor al je andere vragen](https://www.google.com)
 
+## Verplicht in te vullen formulier tijdens projectdag!
+[Google formulier 1x per groep](https://docs.google.com/forms/d/1BfzihnzVnS5_OKG6CZJJUZIzxu5xoNjCw5-J_JBNNoc)
+
 ## Studenten project in p5.js
 Ik ben een masterstudent aan de gedeelde opleiding Industriële Ingenieurswetenschappen UHasselt KULeuven. Mijn specialisatie richting is Electronica-ICT. Met mijn masterproef onderzoek ik of een project waarbij studenten samenwerken met studenten van een andere richting de creativiteit verhoogd. Om dat te onderzoeken zullen studenten Ingenieursstudenten van het tweedejaar Electronica-ICT gepaard worden met studenten Design om een creatief project te programmeren.
 
