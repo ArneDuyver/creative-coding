@@ -53,14 +53,14 @@ Geniet ervan!
 [Gespiegeld](https://arneduyver.github.io/creative-coding/project15)
 
 ## Project 16:
-[???](https://arneduyver.github.io/creative-coding/project16)
+[Silly archeology](https://arneduyver.github.io/creative-coding/project16)
 
 ## Project 17:
-[???](https://arneduyver.github.io/creative-coding/project17)
+[Tall cake](https://arneduyver.github.io/creative-coding/project17)
 
 ## Project 18:
-[???](https://arneduyver.github.io/creative-coding/project18)
+[ENDLESS SNAKE](https://arneduyver.github.io/creative-coding/project18)
 
 ## Project 19:
-[???](https://arneduyver.github.io/creative-coding/project19)
+[Platformer](https://arneduyver.github.io/creative-coding/project19)
 
