@@ -4,6 +4,7 @@
 - [p5.js webeditor](https://editor.p5js.org)
 - [p5.js reference](https://p5js.org/reference/)
 - [Voor al je andere vragen](https://www.google.com)
+- [Art gallery](https://arneduyver.github.io/creative-coding/gallery)
 
 ## Verplicht in te vullen formulier tijdens projectdag!
 [Google formulier 1x per groep](https://docs.google.com/forms/d/1BfzihnzVnS5_OKG6CZJJUZIzxu5xoNjCw5-J_JBNNoc)
