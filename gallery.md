@@ -5,6 +5,8 @@ Geniet ervan!
 
 (Projecten die gebruik maken van de camera, microfoon of geluid moet je bekijken via de "broncode" link op de pagina en daarna op de "play" knop klikken)
 
+*Sommige titels werden automatisch gegenereerd door p5js*
+
 ## Project 1:
 [interactief mooi project](https://arneduyver.github.io/creative-coding/project1)
 
@@ -36,19 +38,19 @@ Geniet ervan!
 [Nebulous fuschia](https://arneduyver.github.io/creative-coding/project10)
 
 ## Project 11:
-[???](https://arneduyver.github.io/creative-coding/project11)
+[Hide the pain](https://arneduyver.github.io/creative-coding/project11)
 
 ## Project 12:
-[???](https://arneduyver.github.io/creative-coding/project12)
+[Lumpy kookaburra](https://arneduyver.github.io/creative-coding/project12)
 
 ## Project 13:
-[???](https://arneduyver.github.io/creative-coding/project13)
+[Antique glade](https://arneduyver.github.io/creative-coding/project13)
 
 ## Project 14:
-[???](https://arneduyver.github.io/creative-coding/project14)
+[Color_waves](https://arneduyver.github.io/creative-coding/project14)
 
 ## Project 15:
-[???](https://arneduyver.github.io/creative-coding/project15)
+[Gespiegeld](https://arneduyver.github.io/creative-coding/project15)
 
 ## Project 16:
 [???](https://arneduyver.github.io/creative-coding/project16)
