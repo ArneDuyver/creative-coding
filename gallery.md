@@ -6,6 +6,7 @@ Geniet ervan!
 (Projecten die gebruik maken van de camera, microfoon of geluid moet je bekijken via de "broncode" link op de pagina en daarna op de "play" knop klikken)
 
 *Sommige titels werden automatisch gegenereerd door p5js*
+**Indien de projecten niet willen werken in uw browser kan u een andere browser proberen. De Google Chrome browser is sterk aangeraden**
 
 ## Project 1:
 [interactief mooi project](https://arneduyver.github.io/creative-coding/project1)
