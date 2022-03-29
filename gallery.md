@@ -10,13 +10,13 @@ Geniet ervan
 [Alpine feast](https://arneduyver.github.io/creative-coding/project2)
 
 ## Project 3:
-[???](https://arneduyver.github.io/creative-coding/project3)
+[Grand paper](https://arneduyver.github.io/creative-coding/project3)
 
 ## Project 4:
-[???](https://arneduyver.github.io/creative-coding/project4)
+[Projectje](https://arneduyver.github.io/creative-coding/project4)
 
 ## Project 5:
-[???](https://arneduyver.github.io/creative-coding/project5)
+[Random Inspiration Maker](https://arneduyver.github.io/creative-coding/project5)
 
 ## Project 6:
 [???](https://arneduyver.github.io/creative-coding/project6)
