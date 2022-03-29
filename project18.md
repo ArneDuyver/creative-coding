@@ -1,6 +1,6 @@
 # ENDLESS SNAKE
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 ENDLESS SNAKE
     

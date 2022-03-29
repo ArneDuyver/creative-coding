@@ -1,6 +1,6 @@
 # Color_waves
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 This is an interactive artwork 
 Click to generate a wave. 

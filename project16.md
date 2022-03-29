@@ -1,6 +1,6 @@
 # Silly archeology
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 Wanneer er geluid gemaakt wordt zullen er steeds meer cirkels in beeld 
 verschijnen

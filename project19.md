@@ -1,6 +1,6 @@
 # Platformer
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 p5jsproject
 2 Player platformer game.

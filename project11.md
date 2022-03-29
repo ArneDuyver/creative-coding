@@ -1,6 +1,6 @@
 # Hide the pain
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 Klik ergens op het scherm
 Hoe stiller je bent hoe minder pijn je ziet

@@ -1,6 +1,6 @@
 # Gespiegeld
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 Gespiegeld tekenen met cirkels en vierkanten
 

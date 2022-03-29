@@ -1,6 +1,6 @@
 # Nebulous fuschia
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 Dit stelt een prachtige screensaver voor die een spontaan relaxerend gevoel geeft totdat de strandbal perfect uitkomt in het hoekje van het display waardoor je je enthousiasme niet kan bedwingen en luid begint te roepen waardoor plots alle hel losbreekt!!
 

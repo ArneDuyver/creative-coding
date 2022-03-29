@@ -1,6 +1,6 @@
 # Random Inspiration Maker
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 De RIM, of Random Inspiration Maker, is een hoog-technologische tool voor alle branches van de kunst om tot inspiratie te komen. Van vazen tot gebouwen, alles kan. 
 

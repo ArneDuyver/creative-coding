@@ -1,6 +1,6 @@
 # Mondriaan
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 Creëer je eigen originele Mondriaan!
 Door op een vakje te klikken, kan je de kleur ervan veranderen.

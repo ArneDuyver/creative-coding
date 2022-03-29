@@ -1,6 +1,6 @@
 # Interactief mooi project
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 Wanneer je de muis over het scherm beweegt wordt deze gevolgt door een complex artistiek patroon.
 

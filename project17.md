@@ -1,6 +1,6 @@
 # Tall cake
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 Wanneer je op start drukt: 
 zal er een bol verschijnen die de frequentie van de microfoon zal weergeven;

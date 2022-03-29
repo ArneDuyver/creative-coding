@@ -1,6 +1,6 @@
 # Projectje
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 Houd de muis ingedrukt voor geluid en breng de vlieg naar de kat haar mond.
 

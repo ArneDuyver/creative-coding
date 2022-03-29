@@ -1,6 +1,6 @@
 # Antique glade
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 Verplaats de deadline en zie de ogen de deadline ontwijken.
 

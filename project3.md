@@ -1,6 +1,6 @@
 # Grand paper
 
-[Terug naar gallerij](https://arneduyver.github.io/creative-coding/gallery)
+[Terug naar galerij](https://arneduyver.github.io/creative-coding/gallery)
 
 Audio visueel kunstwerk dat reageert op geluid opgenomen door de microfoon.
 
