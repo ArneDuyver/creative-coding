@@ -7,9 +7,9 @@
 - [Art gallery](https://arneduyver.github.io/creative-coding/gallery)
 
 ## Verplicht in te vullen formulier tijdens projectdag!
-[Google formulier 1x per groep](https://docs.google.com/forms/d/1BfzihnzVnS5_OKG6CZJJUZIzxu5xoNjCw5-J_JBNNoc/)
-[CPPST-vragenlijst](TODO) op het einde van de workshop in te vullen door elke student.
-[CAT-test](TODO)
+- [Google formulier 1x per groep](https://docs.google.com/forms/d/1BfzihnzVnS5_OKG6CZJJUZIzxu5xoNjCw5-J_JBNNoc/)
+- [CPPST-vragenlijst](https://docs.google.com/forms/d/1B5qVJf7RFnMgGJyQ6Gdm6VtIOO9W5zDEJZlfDFiUd0c/) op het einde van de workshop in te vullen door elke student.
+- ([CAT-test](TODO))
 
 ## Praktische info: Het doel
 Creëer een creatief, visueel interessant project in p5.js. Er moet ook verplicht een interactief element inzitten bv. microfoonvolume om iets te bewegen, camera input, muis input, keyboard input ...
@@ -39,7 +39,7 @@ Volgende links leiden naar verschillende bronnen om inspiratie op te doen over c
 Hieronder is een voorbeeld terug te vinden van een dagproject dat gemaakt werd in p5 als voorbeeld voor de projectdag van de studenten. De code is terug te vinden
 <iframe width="100%" height="600" src="https://editor.p5js.org/ArneDuyver/full/a4a87EoGe"></iframe>
 
-### Art Gallery van projecten van vorig jaar.
+### [Art Gallery met projecten van vorig jaar](https://arneduyver.github.io/creative-coding/gallery)
 
 ### [p5.js showcases](https://showcase.p5js.org/#/2022-All)
 
