@@ -7,10 +7,12 @@
 - [Art gallery](https://arneduyver.github.io/creative-coding/gallery)
 
 ## Verplicht in te vullen formulier tijdens projectdag!
-[Google formulier 1x per groep](TODO)
+[Google formulier 1x per groep](https://docs.google.com/forms/d/1BfzihnzVnS5_OKG6CZJJUZIzxu5xoNjCw5-J_JBNNoc/)
+[CPPST-vragenlijst](TODO) op het einde van de workshop in te vullen door elke student.
+[CAT-test](TODO)
 
 ## Praktische info: Het doel
-TODO
+Creëer een creatief, visueel interessant project in p5.js. Er moet ook verplicht een interactief element inzitten bv. microfoonvolume om iets te bewegen, camera input, muis input, keyboard input ...
 
 ## Extra uitleg project
 Het project bestaat uit het creëren van creatief materiaal aan de hand van de online editor [p5.js](https://editor.p5js.org). P5.js is een JavaScript library voor creative coding met de focus op programmeren zo toegankelijk en inclusief mogelijk te maken voor iedereen. Meer info over de hun visie is terug te vinden op hun website: [p5js.org](https://p5js.org).
@@ -37,7 +39,11 @@ Volgende links leiden naar verschillende bronnen om inspiratie op te doen over c
 Hieronder is een voorbeeld terug te vinden van een dagproject dat gemaakt werd in p5 als voorbeeld voor de projectdag van de studenten. De code is terug te vinden
 <iframe width="100%" height="600" src="https://editor.p5js.org/ArneDuyver/full/a4a87EoGe"></iframe>
 
-Meer voorbeelden van dag projecten:
+### Art Gallery van projecten van vorig jaar.
+
+### [p5.js showcases](https://showcase.p5js.org/#/2022-All)
+
+### Meer voorbeelden van dag projecten:
 - [Horse race](https://editor.p5js.org/ArneDuyver/sketches/h4nLGchFc)
 - [Hidden poster](https://editor.p5js.org/ArneDuyver/sketches/slEEwxJE5)
 - [Simple paint clone](https://editor.p5js.org/ArneDuyver/sketches/hkQioLpQt)
