@@ -11,6 +11,7 @@
 - [CPPST-vragenlijst](https://docs.google.com/forms/d/1B5qVJf7RFnMgGJyQ6Gdm6VtIOO9W5zDEJZlfDFiUd0c/) op het einde van de workshop in te vullen door elke student.
 - ([CAT1-test](https://docs.google.com/forms/d/1u8Sptj684O28cIvOzpDBONo6N3QQeUKjOMgsegJ1Vnk/))
 - ([CAT2-test](https://docs.google.com/forms/d/1oo-vVg9LMeVXaDExPPfnhGHO2KCqGpuLip23l8jxv7U/))
+- [CAT](https://docs.google.com/forms/d/1BaI7v0io_PPNlOscMqOdKpr5ONtOK2QaALiODQizpDg/)
 
 ## Praktische info: Het doel
 Creëer een creatief, visueel interessant project in p5.js. Er moet ook verplicht een interactief element inzitten bv. microfoonvolume om iets te bewegen, camera input, muis input, keyboard input ...
